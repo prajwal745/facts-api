@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.data-visualization-wrapper {
+  display: flex;
+  flex-direction: column;
+}
